@@ -1,0 +1,36 @@
+body{
+    background-color: green;
+
+}
+form{
+    
+    width: 50%;
+
+
+}
+
+h4{
+    color: whitesmoke;
+    text-align: left;
+    margin-right: 0%;
+ 
+    
+}
+
+
+.formulario{
+    color: whitesmoke;
+    margin-left: 13%;
+}
+.clase_text{
+    border: 2px solid red;
+    width: 300px;
+    margin-right: 5% ;
+    
+    
+}
+.linea{
+    border-top: dashed whitesmoke;
+    width: 250px;
+    
+}
